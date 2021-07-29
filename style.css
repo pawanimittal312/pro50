@@ -1,0 +1,23 @@
+h1{color:darkgoldenrod}
+h2{color:darkgreen}
+body{border:solid}
+
+.header{
+    background-color:greenyellow
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+p,h1{
+    text-align: center;
+}
